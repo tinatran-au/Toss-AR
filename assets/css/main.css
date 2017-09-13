@@ -2331,6 +2331,11 @@
 			display: block;
 		}
 
+		.resize {
+			max-width:15%;
+  			max-height:15%;
+		}
+
 		.image.left, .image.right {
 			max-width: 40%;
 		}
