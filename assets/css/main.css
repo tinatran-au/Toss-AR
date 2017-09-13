@@ -2332,8 +2332,18 @@
 		}
 
 		.resize {
-			max-width:15%;
-  			max-height:15%;
+			max-width:25%;
+  			max-height:25%;
+		}
+
+		.resize-1 {
+			max-width:75%;
+  			max-height:75%;
+		}
+
+		.resize-2 {
+			max-width:75%;
+  			max-height:75%;
 		}
 
 		.image.left, .image.right {
